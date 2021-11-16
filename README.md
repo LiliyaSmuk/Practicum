@@ -30,3 +30,12 @@
 Вот как выглядят существующие пользователи    
 
 ![screenshot](images/3-6.jpg)
+
+Консоль сервера
+
+![screenshot](images/3-7.jpg)
+
+В log.txt осуществляется запись
+
+![screenshot](images/3-8.jpg)
+
