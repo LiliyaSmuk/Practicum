@@ -35,5 +35,6 @@
 
 ![screenshot](images/3-7.jpg)
 
-В log.txt осуществляется запись
+В log.txt осуществляется запись происходящего
 
+![screenshot](images/3-8.png)
