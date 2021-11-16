@@ -37,5 +37,3 @@
 
 В log.txt осуществляется запись
 
-![screenshot](images/3-8.jpg)
-
