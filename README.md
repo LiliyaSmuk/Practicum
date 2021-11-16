@@ -27,7 +27,7 @@
 
 ![screenshot](images/3-5.jpg)
 
-Cуществующие пользователи   
+Cуществующие пользователи в db.json
 
 ![screenshot](images/3-6.jpg)
 
